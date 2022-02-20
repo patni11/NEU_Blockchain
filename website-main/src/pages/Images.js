@@ -1,4 +1,9 @@
-// import * as React from "react";
+import * as React from "react";
+
+export default function Images() {
+  return <h1> Need to work on this</h1>;
+}
+
 // import Navigation from "../components/Navigation";
 // import "../styles/gallary.css";
 // import { useStaticQuery, graphql } from "gatsby";
