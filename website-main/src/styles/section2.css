@@ -1,0 +1,22 @@
+.section-secondary {
+  min-height: 100vh;
+  width: 100%;
+  background-color: bisque;
+  position: relative;
+  top: 0;
+  padding-bottom: 4em;
+}
+
+.section-secondary-title {
+  color: cadetblue;
+  font-size: 2em;
+}
+
+.secondary-container {
+  width: 100%;
+  padding-top: 4em;
+}
+
+.researches {
+  width: 100%;
+}
