@@ -3,6 +3,7 @@ import Cube from "./Cube";
 import { useState } from "react";
 import "../styles/nav.css";
 import { Link } from "gatsby";
+import { AnchorLink } from "gatsby-plugin-anchor-links";
 
 export default function Navigation() {
   const [popupState, setpopState] = useState(false);
@@ -24,20 +25,53 @@ export default function Navigation() {
       >
         <div className="item-container">
           <ul>
-            <Link to="/Research" className="items">
-              <h2> Research </h2>
+            <Link to="/" className="items">
+              <img src="logo.png" alt="" className="logo" />
             </Link>
-            <Link to="/About" className="items">
-              <h2> About </h2>
+            <Link
+              to="/Research"
+              className="items"
+              onClick={() => {
+                closePopup();
+              }}
+            >
+              <h3 className="nav-title"> Research </h3>
             </Link>
-            <Link to="/Events" className="items">
-              <h2> Events </h2>
+            <AnchorLink
+              to="/#about"
+              className="items"
+              onClick={() => {
+                closePopup();
+              }}
+            >
+              <h3 className="nav-title"> About </h3>
+            </AnchorLink>
+            <Link
+              to="/Events"
+              className="items"
+              onClick={() => {
+                closePopup();
+              }}
+            >
+              <h3 className="nav-title"> Events </h3>
             </Link>
-            <Link to="/Images" className="items">
-              <h2> Gallery </h2>
+            <Link
+              to="/Images"
+              className="items"
+              onClick={() => {
+                closePopup();
+              }}
+            >
+              <h3 className="nav-title"> Gallery </h3>
             </Link>
-            <Link to="/ContactUs" className="items">
-              <h2> Contact Us </h2>
+            <Link
+              to="/ContactUs"
+              className="items"
+              onClick={() => {
+                closePopup();
+              }}
+            >
+              <h3 className="nav-title"> Contact Us </h3>
             </Link>
           </ul>
         </div>
@@ -47,18 +81,19 @@ export default function Navigation() {
 
   return (
     <>
-      {popupState ? (
+      {/* {popupState ? (
         <NavScreen> </NavScreen>
       ) : (
-        <Cube
-          nav={true}
-          size="50px"
-          position="fixed"
-          top="50px"
-          left="92vw"
-          onClick={togglePopup}
-        ></Cube>
-      )}
+        <img
+          src="hamburger.svg"
+          alt=""
+          className="hamburger"
+          onClick={() => {
+            togglePopup();
+          }}
+        />
+      )} */}
+      <NavScreen> </NavScreen>
     </>
   );
 }

@@ -91,6 +91,12 @@ const members = [
     image: Shubh,
     link: "https://www.linkedin.com/in/shubh-p-3b3013136/",
   },
+  {
+    description: "",
+    title: "Luke O'Neal (Head of Public Relations)",
+    image: Bernice,
+    link: "https://www.linkedin.com/in/shubh-p-3b3013136/",
+  },
 ];
 
 export default members;

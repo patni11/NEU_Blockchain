@@ -1,14 +1,32 @@
 #ring-wrapper {
-  position: relative;
-  left: 50%;
-  top: 50%;
+  position: absolute;
   perspective: 1500px;
+  bottom: 25%;
+  left: 50%;
+  display: block;
+  margin-top: 2em;
 }
 
-.ring-box-area {
+.ring-box-area1,
+.ring-box-area2,
+.ring-box-area3 {
   position: relative;
   transform-style: preserve-3d;
   transform: rotateY(45deg);
+}
+
+.ring-box-area1 {
+  position: absolute;
+  top: 40px;
+}
+
+.ring-box-area2 {
+  position: absolute;
+  top: 80px;
+}
+
+.ring-box-area3 {
+  position: absolute;
 }
 
 .ring-box {
@@ -20,21 +38,29 @@
 #ring-box-front {
   transform: translateX(-150px) translateY(-150px) translateZ(150px);
   background: rgba(188, 45, 34);
+  z-index: 4;
 }
 
 #ring-box-back {
   transform: translateX(-150px) translateY(-150px) translateZ(-150px);
   background: rgba(188, 45, 34);
+  z-index: 1;
 }
 
 #ring-box-right {
   transform: translateY(-150px) rotateY(90deg);
   background: rgba(188, 45, 34);
+  z-index: 4;
 }
 
 #ring-box-left {
   transform: translateY(-150px) translateX(-300px) rotateY(90deg);
   background: rgba(188, 45, 34);
+  z-index: 4;
+}
+
+.individual-rings {
+  margin-top: 1em;
 }
 
 @media only screen and (max-width: 700px) {

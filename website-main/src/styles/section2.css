@@ -1,15 +1,18 @@
 .section-secondary {
-  min-height: 100vh;
+  height: auto;
   width: 100%;
-  background-color: bisque;
+  /* background-color: #303036; */
+  background-color: #1d1d20;
   position: relative;
   top: 0;
+  bottom: 0%;
   padding-bottom: 4em;
 }
 
 .section-secondary-title {
-  color: cadetblue;
-  font-size: 2em;
+  /* color: azure;*/
+  color: #bf1111;
+  font-size: 2.6em;
 }
 
 .secondary-container {
