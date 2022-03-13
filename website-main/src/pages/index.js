@@ -4,12 +4,29 @@ import Navigation from "../components/Navigation";
 import About from "../pages/About";
 import Section2 from "../components/Section2";
 import members from "../components/Team";
+import Background from "../components/Background";
+
 // markup
 const IndexPage = () => {
+  var CLIENT_ID = "<YOUR_CLIENT_ID>";
+  var API_KEY = "AIzaSyANP7_gCgpTcSKJCAP-BL_HCvEJIuADrk4";
   return (
     <>
       <Navigation></Navigation>
-      <section>
+      <section className="area">
+        {/* <ul class="circles">
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul> */}
+        <Background></Background>
         <div className="main">
           <h1 className="home-title"> NEU Blockchain</h1>
           <h3 className="home-subheading">

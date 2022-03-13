@@ -4,7 +4,7 @@ import CardInfo from "./CardInfo";
 import "../styles/section2.css";
 import { useState } from "react";
 
-export default function Section2({ title, data, link_title }) {
+export default function Section2({ title, data, link_title, children }) {
   const [popupState, setpopState] = useState(false);
   const [popupData, setPopupData] = useState(data[0]);
   function togglePopup(research) {
@@ -17,28 +17,10 @@ export default function Section2({ title, data, link_title }) {
   }
 
   return (
-    <section className="section-secondary">
+    <section className="section-secondary bg">
       <div className="secondary-container">
         <center>
           <h2 className="section-secondary-title">{title}</h2>
-          {/* <ul className="sort-list">
-            <li className="sort-list-item">
-              {" "}
-              <a href=""> DeFi </a>
-            </li>
-            <li className="sort-list-item">
-              {" "}
-              <a href=""> NFTs </a>
-            </li>
-            <li className="sort-list-item">
-              {" "}
-              <a href=""> Decentralization </a>
-            </li>
-            <li className="sort-list-item">
-              {" "}
-              <a href=""> Privacy </a>
-            </li>
-          </ul> */}
           <div className="researches">
             {data.map((research) => {
               return (
@@ -67,6 +49,7 @@ export default function Section2({ title, data, link_title }) {
                 link={popupData.link}
                 link_title={link_title}
                 closePopup={() => closePopup}
+                date={popupData.date}
               ></CardInfo>
             )}
           </div>

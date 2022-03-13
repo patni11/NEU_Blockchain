@@ -1,9 +1,11 @@
 import React, { Children } from "react";
 import "../styles/section1.css";
+import Background from "../components/Background";
 
 export default function Section1({ image, title, description, children }) {
   return (
-    <section className="section-head">
+    <section className="section-head area">
+      <Background></Background>
       <div className="container">
         <center>
           <img src={image} alt="" className="header-image" />

@@ -86,9 +86,10 @@ const members = [
     link: "https://www.linkedin.com/in/megan--gilbert/",
   },
   {
-    description: "",
     title: "Shubh Patni (Head of Public Relations)",
     image: Shubh,
+    description:
+      "Shubh Patni is a Blogger, Programmer, and creates content related to programming and tech. He has been 5x top writer on Medium with over 150k views and is currently working at Phemex Student Fellowship",
     link: "https://www.linkedin.com/in/shubh-p-3b3013136/",
   },
   {

@@ -1,0 +1,1200 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "UEKhU5ZD0LAHBYdxjhXhygk1qCE",
+    "id": "J7kSurU0SlI",
+    "snippet": {
+      "publishedAt": "2022-03-08T19:36:57Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] How to Create Your Own Startup",
+      "description": "Listen to Corbin Pon, Co-Founder at Fold, Thesis, and Scholrly, as he talk about his startup journey, and give advice on how you can create your own startup in the Blockchain industry.\n\nFollow us:\nInstagram - https://www.instagram.com/neublockchain/\nTwitter - https://twitter.com/NEU_Blockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J7kSurU0SlI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J7kSurU0SlI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J7kSurU0SlI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] How to Create Your Own Startup",
+        "description": "Listen to Corbin Pon, Co-Founder at Fold, Thesis, and Scholrly, as he talk about his startup journey, and give advice on how you can create your own startup in the Blockchain industry.\n\nFollow us:\nInstagram - https://www.instagram.com/neublockchain/\nTwitter - https://twitter.com/NEU_Blockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H5M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "11",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Knowledge"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ndcc2obcHaZGqbdOFCS2yiBNA_o",
+    "id": "S3wXM6GUCNQ",
+    "snippet": {
+      "publishedAt": "2022-03-02T19:37:17Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] NFT Analytics w/ Evaluate.Market",
+      "description": "Listen to Christian from Evaluate.Market as he talks about Non-Fungible Tokens (NFTs).\n\nFollow us:\nInstagram - https://www.instagram.com/neublockchain/\nTwitter - https://twitter.com/NEU_Blockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S3wXM6GUCNQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S3wXM6GUCNQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S3wXM6GUCNQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] NFT Analytics w/ Evaluate.Market",
+        "description": "Listen to Christian from Evaluate.Market as he talks about Non-Fungible Tokens (NFTs).\n\nFollow us:\nInstagram - https://www.instagram.com/neublockchain/\nTwitter - https://twitter.com/NEU_Blockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT55M13S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "10",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Society"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Hw6yboe1dpKsT9VnhNSLvBfsAOk",
+    "id": "j83_CfQIuRA",
+    "snippet": {
+      "publishedAt": "2022-02-08T16:28:17Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Intro to Web 3.0 & Smart Contracts w/ Solon DeFi",
+      "description": "We introduce Web 3.0 and Smart Contracts as well as how they work, and also discuss our plans for tech development. \n\nFollow us:\nInstagram - https://www.instagram.com/neublockchain/\nTwitter - https://twitter.com/NEU_Blockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j83_CfQIuRA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j83_CfQIuRA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j83_CfQIuRA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Intro to Web 3.0 & Smart Contracts w/ Solon DeFi",
+        "description": "We introduce Web 3.0 and Smart Contracts as well as how they work, and also discuss our plans for tech development. \n\nFollow us:\nInstagram - https://www.instagram.com/neublockchain/\nTwitter - https://twitter.com/NEU_Blockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT55M31S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "35",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Society"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "tbxMKHsNPS3U1zlQE-D9t3lbYwA",
+    "id": "d89rh46q2Ok",
+    "snippet": {
+      "publishedAt": "2022-02-01T16:20:45Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Stable Coins with Circle",
+      "description": "Listen to Rajdeep from Circle as he talks about Stable Coins, CBDC, and payments. \n\nFollow us:\nInstagram - https://www.instagram.com/neublockchain/\nTwitter - https://twitter.com/NEU_Blockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d89rh46q2Ok/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d89rh46q2Ok/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d89rh46q2Ok/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "tags": ["blockchain", "cryptocurrency", "circle"],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Stable Coins with Circle",
+        "description": "Listen to Rajdeep from Circle as he talks about Stable Coins, CBDC, and payments. \n\nFollow us:\nInstagram - https://www.instagram.com/neublockchain/\nTwitter - https://twitter.com/NEU_Blockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H13M18S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "38",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Society"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "hSvYgHKyKB1rOlxBMiy751S4JrQ",
+    "id": "Yy0aOMehwiQ",
+    "snippet": {
+      "publishedAt": "2021-12-13T17:39:50Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Step Into the Blockchain Industry",
+      "description": "Blockchains are known for their role in cryptocurrency systems for maintaining a secure and decentralized record of transactions. The global blockchain market has grown tremendously in recent years and is expected to increase by billions over the next few years.\n\n\n\nContributing to this high market growth rate include increasing venture capital fundings, investment in technology, use of blockchain solutions in banking and cybersecurity, high adoption of blockchain solutions for payment, smart contracts, and digital identities.\n\n\nIn this panel discussion and blockchain event hosted in collaboration with Northeastern University’s Blockchain Organization, learn about how to step into this rapidly growing industry.\n\n\nHear about working in this unique space from Professor Felipe Cortes, Sydney Rice, S’18, and Toju Ometoruwa, DMSB’16.\n\n\nGet hands-on with the team and researchers in the NEU Blockchain Organization with the opportunity to set up your digital wallet, and meet others in the community!\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yy0aOMehwiQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yy0aOMehwiQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yy0aOMehwiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Yy0aOMehwiQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Yy0aOMehwiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "tags": [
+        "blockchain",
+        "crypto",
+        "northeastern university",
+        "intro to blockchain",
+        "Alumni"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Step Into the Blockchain Industry",
+        "description": "Blockchains are known for their role in cryptocurrency systems for maintaining a secure and decentralized record of transactions. The global blockchain market has grown tremendously in recent years and is expected to increase by billions over the next few years.\n\n\n\nContributing to this high market growth rate include increasing venture capital fundings, investment in technology, use of blockchain solutions in banking and cybersecurity, high adoption of blockchain solutions for payment, smart contracts, and digital identities.\n\n\nIn this panel discussion and blockchain event hosted in collaboration with Northeastern University’s Blockchain Organization, learn about how to step into this rapidly growing industry.\n\n\nHear about working in this unique space from Professor Felipe Cortes, Sydney Rice, S’18, and Toju Ometoruwa, DMSB’16.\n\n\nGet hands-on with the team and researchers in the NEU Blockchain Organization with the opportunity to set up your digital wallet, and meet others in the community!\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT52M24S",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "41",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Knowledge"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "4Wnm-q0okXJ6CVoyl_PlaUGuBfg",
+    "id": "kIT-Flv8Jj0",
+    "snippet": {
+      "publishedAt": "2021-11-09T15:30:51Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] SundaeSwap with Pi Lanningham Fireside Chat",
+      "description": "Listen to CIO Pi as he explains the Cardano Blockchain and Sundaeswap.\n\nFollow us on twitter @neu_blockchain\n\n#sundaeswap #pi #Cardano\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kIT-Flv8Jj0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kIT-Flv8Jj0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kIT-Flv8Jj0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "tags": [
+        "sundaeswap",
+        "decentralized exchange",
+        "northeastern university",
+        "crypto",
+        "neu blockchain"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] SundaeSwap with Pi Lanningham Fireside Chat",
+        "description": "Listen to CIO Pi as he explains the Cardano Blockchain and Sundaeswap.\n\nFollow us on twitter @neu_blockchain\n\n#sundaeswap #pi #Cardano\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT56M25S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "720",
+      "likeCount": "33",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Society"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "bJnXMNw6xnklvnbi5ZKwI4dvhtE",
+    "id": "fA7eoA9cg60",
+    "snippet": {
+      "publishedAt": "2021-11-05T14:55:49Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Intro to Coin Metrics",
+      "description": "CEO Tim Rice and the Research team from Coin Metrics join Northeastern Blockchain to discuss the analytics and findings behind cryptocurrencies.\n\nCoin Metrics is the leading provider of transparent and actionable crypto asset market and network data, delivering mature data across multiple formats to various industry stakeholders including financial enterprises, crypto funds, media and research outlets, and third-party data and application providers. Coin Metrics’ data empowers its clients and the public to better understand, value, use, and ultimately steward public crypto networks.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fA7eoA9cg60/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fA7eoA9cg60/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fA7eoA9cg60/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "tags": [
+        "blockchain",
+        "analytics",
+        "crypto",
+        "onchain",
+        "northeastern university"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Intro to Coin Metrics",
+        "description": "CEO Tim Rice and the Research team from Coin Metrics join Northeastern Blockchain to discuss the analytics and findings behind cryptocurrencies.\n\nCoin Metrics is the leading provider of transparent and actionable crypto asset market and network data, delivering mature data across multiple formats to various industry stakeholders including financial enterprises, crypto funds, media and research outlets, and third-party data and application providers. Coin Metrics’ data empowers its clients and the public to better understand, value, use, and ultimately steward public crypto networks.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H8M6S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "286",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "TEw_otY63Wv_3Yct66tcYtguu0Q",
+    "id": "x76hO215mEM",
+    "snippet": {
+      "publishedAt": "2021-11-02T01:01:39Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Art of Crypto Research with Galaxy Digital",
+      "description": "Alex Thorn joined Northeastern Blockchain on November 1st. Alex is the Head of Firmwide Research at Galaxy Digital, a diversified financial services company operating in the digital asset, cryptocurrency, and blockchain technology sector. Alex manages a research team and platform that generates unique insights on the state of public blockchain networks for their clients.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x76hO215mEM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x76hO215mEM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x76hO215mEM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x76hO215mEM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x76hO215mEM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "tags": ["blockchain", "crypto", "galaxy digital", "bitcoin", "research"],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Art of Crypto Research with Galaxy Digital",
+        "description": "Alex Thorn joined Northeastern Blockchain on November 1st. Alex is the Head of Firmwide Research at Galaxy Digital, a diversified financial services company operating in the digital asset, cryptocurrency, and blockchain technology sector. Alex manages a research team and platform that generates unique insights on the state of public blockchain networks for their clients.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H2M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "41",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Society"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "LZLABhTjjEaON1EZtKhp8wcaNXY",
+    "id": "OAMZNUpALvs",
+    "snippet": {
+      "publishedAt": "2021-10-31T19:34:07Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Crypto 101 with Mike Wise",
+      "description": "Mike Wise, Boston Blockchain Association’s Head of Partnerships, will present some insights on cryptocurrency and how it plays into the current market. Due to his depth of knowledge within the industry, he will be able to answer specific questions as well as give a general overview of the industry. This event, hosted by DSP & NEU Blockchain, aims to provide exposure to Crypto for all students on campus.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OAMZNUpALvs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OAMZNUpALvs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OAMZNUpALvs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OAMZNUpALvs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OAMZNUpALvs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Crypto 101 with Mike Wise",
+        "description": "Mike Wise, Boston Blockchain Association’s Head of Partnerships, will present some insights on cryptocurrency and how it plays into the current market. Due to his depth of knowledge within the industry, he will be able to answer specific questions as well as give a general overview of the industry. This event, hosted by DSP & NEU Blockchain, aims to provide exposure to Crypto for all students on campus.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT54M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "22",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Society"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "-YyM2eJ2LwH_n-vuwDa80aiZerM",
+    "id": "vdA7prQGp_g",
+    "snippet": {
+      "publishedAt": "2021-10-26T01:30:03Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Women in Blockchain",
+      "description": "On Monday, October 25th, the NEU Blockchain Organization hosted Maryanne Morrow, Caroline Dennis, Lynne Marlor, and Kristin Michaud.\nConnect with us here: https://linktr.ee/NEUBlockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vdA7prQGp_g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vdA7prQGp_g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vdA7prQGp_g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vdA7prQGp_g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vdA7prQGp_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Women in Blockchain",
+        "description": "On Monday, October 25th, the NEU Blockchain Organization hosted Maryanne Morrow, Caroline Dennis, Lynne Marlor, and Kristin Michaud.\nConnect with us here: https://linktr.ee/NEUBlockchain\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H20S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": true
+    },
+    "statistics": {
+      "viewCount": "16",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "GXjhaT2-QEwwY1xW8LgNhsYzI3U",
+    "id": "xP29BFR8Bfk",
+    "snippet": {
+      "publishedAt": "2021-10-19T01:14:59Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Crypto with Coinbase",
+      "description": "NEU Blockchain presents Brian Foster, from Coinbase. In a collaboration, event Disrupt the FinTech Initiative at Northeastern, we spoke to Brain about Coinbase and Coinbase ventures. Learn about crypto and Coinbase!\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xP29BFR8Bfk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xP29BFR8Bfk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xP29BFR8Bfk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xP29BFR8Bfk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xP29BFR8Bfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Crypto with Coinbase",
+        "description": "NEU Blockchain presents Brian Foster, from Coinbase. In a collaboration, event Disrupt the FinTech Initiative at Northeastern, we spoke to Brain about Coinbase and Coinbase ventures. Learn about crypto and Coinbase!\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT49M2S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": true
+    },
+    "statistics": {
+      "viewCount": "48",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "aqiIoDkQAXvLg4v9LDLfJwPGTTY",
+    "id": "AxZ2CPFm0XU",
+    "snippet": {
+      "publishedAt": "2021-10-15T13:42:35Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Fireside Chat with dClimate's Osho Jha",
+      "description": "Learn about Blockchain and ESG with Osho Jha, founding partner of dClimate and Co-Founder & Chief Data Scientist at Arbol. We will be discussing new ways blockchain can be used for good like tracking carbon credits and creating better forecasts and models. \n\ndclimate.net\n\nThis event is co-hosted with Origin and NEU Sharpe.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AxZ2CPFm0XU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AxZ2CPFm0XU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AxZ2CPFm0XU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AxZ2CPFm0XU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AxZ2CPFm0XU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Fireside Chat with dClimate's Osho Jha",
+        "description": "Learn about Blockchain and ESG with Osho Jha, founding partner of dClimate and Co-Founder & Chief Data Scientist at Arbol. We will be discussing new ways blockchain can be used for good like tracking carbon credits and creating better forecasts and models. \n\ndclimate.net\n\nThis event is co-hosted with Origin and NEU Sharpe.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT56M21S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "57",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Ice_hockey",
+        "https://en.wikipedia.org/wiki/Society"
+      ]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "3Anz3TMaz4Jw6AZOtlR-nD-HnDg",
+    "id": "__6bag99SP8",
+    "snippet": {
+      "publishedAt": "2021-10-05T15:31:46Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Writing & Deploying Smart Contracts",
+      "description": "Northeastern Blockchain Organization hosted Steve Flanagan, Head of Crypto at AngleList and Northeastern Alum. Steve taught everyone why smart contracts are useful and what they can be used for. Everybody was able to write and deploy their first smart contract in this short lesson!\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/__6bag99SP8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/__6bag99SP8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/__6bag99SP8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/__6bag99SP8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/__6bag99SP8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "tags": [
+        "northeastern university",
+        "blockchain",
+        "smart contracts",
+        "Neu blockchain"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Writing & Deploying Smart Contracts",
+        "description": "Northeastern Blockchain Organization hosted Steve Flanagan, Head of Crypto at AngleList and Northeastern Alum. Steve taught everyone why smart contracts are useful and what they can be used for. Everybody was able to write and deploy their first smart contract in this short lesson!\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT58M27S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": true
+    },
+    "statistics": {
+      "viewCount": "49",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Knowledge"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Q27pEEa5vJYYJLMgBerlLMh7b1k",
+    "id": "laXaa06c9ZA",
+    "snippet": {
+      "publishedAt": "2021-09-28T16:05:50Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] NFTs 101 Speaker Panel",
+      "description": "Over $6.5 Billion in JPEG sales on Opensea so far this year and 99% of the world still has no idea what an NFT is. This week join us to learn about NFT's, future use cases, and even receive an NFT for this event in your own wallet! This event is a panel chat with current Northeastern students who have launched various platforms to sell and trade NFTs.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/laXaa06c9ZA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/laXaa06c9ZA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/laXaa06c9ZA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/laXaa06c9ZA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/laXaa06c9ZA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "tags": [
+        "blockchain",
+        "Northeastern University",
+        "NFT",
+        "Students",
+        "Leanr",
+        "Crypto"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] NFTs 101 Speaker Panel",
+        "description": "Over $6.5 Billion in JPEG sales on Opensea so far this year and 99% of the world still has no idea what an NFT is. This week join us to learn about NFT's, future use cases, and even receive an NFT for this event in your own wallet! This event is a panel chat with current Northeastern students who have launched various platforms to sell and trade NFTs.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT56M30S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": true
+    },
+    "statistics": {
+      "viewCount": "24",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "recordingDetails": { "recordingDate": "2021-09-27T00:00:00Z" }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "lx98vL9Je5xVgH33CHkOkmL31sU",
+    "id": "bc1mRRrXwLU",
+    "snippet": {
+      "publishedAt": "2021-09-21T00:07:03Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Investing in Crypto",
+      "description": "Northeastern Blockchain Organization hosts Sir John Hargrave, CEO of Media Shower. He discussed and answered questions about safely diversifying portfolios in cryptocurrencies and how they have outperformed the traditional market in the past 10 years.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bc1mRRrXwLU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bc1mRRrXwLU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bc1mRRrXwLU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bc1mRRrXwLU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bc1mRRrXwLU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Investing in Crypto",
+        "description": "Northeastern Blockchain Organization hosts Sir John Hargrave, CEO of Media Shower. He discussed and answered questions about safely diversifying portfolios in cryptocurrencies and how they have outperformed the traditional market in the past 10 years.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT48M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": true
+    },
+    "statistics": {
+      "viewCount": "12",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Business",
+        "https://en.wikipedia.org/wiki/Society"
+      ]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ChnyQdSs_AZ9PlM2X2MSzAOhWnE",
+    "id": "idJ4VBiltgI",
+    "snippet": {
+      "publishedAt": "2021-09-16T22:52:47Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Wallets & Tokenomics Workshop",
+      "description": "Workshop learning the basics of setting up a wallet and other general questions about tokenomics.  This event was with Northeastern University, Babson College, and Bentley University Blockchain Clubs.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/idJ4VBiltgI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/idJ4VBiltgI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/idJ4VBiltgI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/idJ4VBiltgI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/idJ4VBiltgI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Wallets & Tokenomics Workshop",
+        "description": "Workshop learning the basics of setting up a wallet and other general questions about tokenomics.  This event was with Northeastern University, Babson College, and Bentley University Blockchain Clubs.\n\nThis video is the property of NEU Blockchain and is to be used for educational and informational purposes only. Any illegal reproduction of this content will result in immediate legal action."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT33M34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "99",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Knowledge"]
+    },
+    "recordingDetails": {}
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "T9HzEG9ODY55hYQRWSlyDsSXJ9M",
+    "id": "LaWQQDQpp00",
+    "snippet": {
+      "publishedAt": "2021-09-14T00:08:52Z",
+      "channelId": "UCe2CYeEvZvf0Z5WCfA4-qGA",
+      "title": "[NEU Blockchain] Kickoff & Applications with Hyperledger",
+      "description": "Learn about who Northeastern Blockchain is and the different initiatives you can take part in. After the introduction, we are joined by Karen, Head of Ecosystem at Hyperledger, who discusses different blockchain applications and how to get involved in Hyperledger.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LaWQQDQpp00/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LaWQQDQpp00/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LaWQQDQpp00/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LaWQQDQpp00/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LaWQQDQpp00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Northeastern University Blockchain Organization",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "[NEU Blockchain] Kickoff & Applications with Hyperledger",
+        "description": "Learn about who Northeastern Blockchain is and the different initiatives you can take part in. After the introduction, we are joined by Karen, Head of Ecosystem at Hyperledger, who discusses different blockchain applications and how to get involved in Hyperledger."
+      }
+    },
+    "contentDetails": {
+      "duration": "PT52M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": true
+    },
+    "statistics": {
+      "viewCount": "31",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "topicDetails": {
+      "topicCategories": ["https://en.wikipedia.org/wiki/Society"]
+    },
+    "recordingDetails": {}
+  }
+]

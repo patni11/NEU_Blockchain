@@ -4,7 +4,7 @@
   width: 100vw;
   height: 80px;
   z-index: 1;
-  background-color: azure;
+  background-color: rgba(76, 175, 80, 0);
 }
 
 .item-container {
@@ -20,7 +20,10 @@
   font-weight: bold;
   font-size: 1.2em;
 }
-
+.scrolled {
+  transition: 0.3s;
+  background-color: rgba(164, 38, 29);
+}
 .items {
   display: inline-block;
   margin: 1em;
@@ -29,13 +32,21 @@
 }
 
 .items:hover {
-  box-shadow: 0 0 12px rgba(255, 0, 0, 0.3);
+  /* box-shadow: 0 0 12px rgba(255, 0, 0, 0.3); */
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
 }
 
 .nav-title:hover {
-  color: brown;
+  color: rgba(164, 38, 29);
 }
 
+.title-scrolled {
+  color: snow;
+}
+
+.title-scrolled:hover {
+  color: snow;
+}
 .logo {
   position: fixed;
   left: 5%;
