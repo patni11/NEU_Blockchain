@@ -8,7 +8,7 @@ import { useState } from "react";
 //import { google } from "googleapis";
 
 // export async function getServerSideData() {
-//   const spreadsheetID = "1jQq779TGjSwiDee0-yhx4yKdxlINxZ2iQ-VzxX1l1Ho";
+//   
 //   const auth = await google.auth.getClient({
 //     scopes: ["https://www.googleapis.com/auth/spreadsheets.readonly"],
 //   });
