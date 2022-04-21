@@ -2,7 +2,7 @@ import "../styles/background.css";
 import React from "react";
 export default function Background() {
   return (
-    <ul class="circles">
+    <ul className="circles">
       <li></li>
       <li></li>
       <li></li>

@@ -1,0 +1,24 @@
+.social_links {
+  position: relative;
+  top: 2em;
+}
+
+.social_links_images {
+  width: 6em;
+  max-width: 60px;
+  height: auto;
+}
+
+.social_links_list {
+  display: block;
+}
+
+.social_links_list_items {
+  display: inline-block;
+}
+
+@media only screen and (max-width: 700px) {
+  .social_links_images {
+    width: 4em;
+  }
+}

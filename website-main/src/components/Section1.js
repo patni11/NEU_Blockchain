@@ -12,9 +12,9 @@ export default function Section1({ image, title, description, children }) {
           <div className="section-text">
             <h2 className="section-title">{title}</h2>
             <p className="para">{description}</p>
+            {children}
           </div>
         </center>
-        {children}
       </div>
     </section>
   );

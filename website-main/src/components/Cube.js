@@ -20,23 +20,23 @@ function Cube({ size, nav, position, left, top, onClick }) {
     return (
       <>
         <div id="wrapper" style={cssProperty}>
-          <div class="box-area">
-            <Link to="/Research" id="box-front" class="box">
+          <div className="box-area">
+            <Link to="/Research" id="box-front" className="box">
               <h2> Research </h2>
             </Link>
-            <Link to="/About" id="box-right" class="box">
+            <Link to="/About" id="box-right" className="box">
               <h2> About </h2>
             </Link>
-            <Link to="/Partners" id="box-back" class="box">
+            <Link to="/Partners" id="box-back" className="box">
               <h2> Partners </h2>
             </Link>
-            <Link to="/Events" id="box-left" class="box">
+            <Link to="/Events" id="box-left" className="box">
               <h2> Events </h2>
             </Link>
-            <Link to="/Images" id="box-top" class="box">
+            <Link to="/Images" id="box-top" className="box">
               <h2> Gallery </h2>
             </Link>
-            <Link to="/ContactUs" id="box-bottom" class="box">
+            <Link to="/ContactUs" id="box-bottom" className="box">
               <h2> Contact Us </h2>
             </Link>
           </div>
@@ -48,13 +48,13 @@ function Cube({ size, nav, position, left, top, onClick }) {
     return (
       <>
         <div id="wrapper" style={cssProperty} onClick={onClick}>
-          <div class="box-area">
-            <div id="box-front" class="box"></div>
-            <div id="box-right" class="box"></div>
-            <div id="box-back" class="box"></div>
-            <div id="box-left" class="box"></div>
-            <div id="box-top" class="box"></div>
-            <div id="box-bottom" class="box"></div>
+          <div className="box-area">
+            <div id="box-front" className="box"></div>
+            <div id="box-right" className="box"></div>
+            <div id="box-back" className="box"></div>
+            <div id="box-left" className="box"></div>
+            <div id="box-top" className="box"></div>
+            <div id="box-bottom" className="box"></div>
           </div>
         </div>
         <Rings></Rings>
@@ -67,23 +67,23 @@ function Rings() {
   return (
     <>
       <div id="ring-wrapper">
-        <div class="ring-box-area1">
-          <div id="ring-box-front" class="ring-box"></div>
-          <div id="ring-box-back" class="ring-box"></div>
-          <div id="ring-box-left" class="ring-box"></div>
-          <div id="ring-box-right" class="ring-box"></div>
+        <div className="ring-box-area1">
+          <div id="ring-box-front" className="ring-box"></div>
+          <div id="ring-box-back" className="ring-box"></div>
+          <div id="ring-box-left" className="ring-box"></div>
+          <div id="ring-box-right" className="ring-box"></div>
         </div>
-        <div class="ring-box-area2">
-          <div id="ring-box-front" class="ring-box"></div>
-          <div id="ring-box-back" class="ring-box"></div>
-          <div id="ring-box-left" class="ring-box"></div>
-          <div id="ring-box-right" class="ring-box"></div>
+        <div className="ring-box-area2">
+          <div id="ring-box-front" className="ring-box"></div>
+          <div id="ring-box-back" className="ring-box"></div>
+          <div id="ring-box-left" className="ring-box"></div>
+          <div id="ring-box-right" className="ring-box"></div>
         </div>
-        <div class="ring-box-area3">
-          <div id="ring-box-front" class="ring-box"></div>
-          <div id="ring-box-back" class="ring-box"></div>
-          <div id="ring-box-left" class="ring-box"></div>
-          <div id="ring-box-right" class="ring-box"></div>
+        <div className="ring-box-area3">
+          <div id="ring-box-front" className="ring-box"></div>
+          <div id="ring-box-back" className="ring-box"></div>
+          <div id="ring-box-left" className="ring-box"></div>
+          <div id="ring-box-right" className="ring-box"></div>
         </div>
       </div>
     </>
