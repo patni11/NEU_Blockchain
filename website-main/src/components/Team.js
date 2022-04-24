@@ -11,6 +11,7 @@ import Alyson from "../images/headshots/ally.jpeg";
 import Jeremy from "../images/headshots/jeremy.jpeg";
 import David from "../images/headshots/david.jpeg";
 import Bernice from "../images/headshots/profile.jpeg";
+import Luke from "../images/headshots/luke.jpeg";
 
 const members = [
   {
@@ -108,7 +109,7 @@ const members = [
   {
     description: "",
     title: "Luke O'Neal (Head of Public Relations)",
-    image: Bernice,
+    image: Luke,
     link: "https://www.linkedin.com/in/lukefoneill",
     id: 13,
   },
