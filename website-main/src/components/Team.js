@@ -9,8 +9,7 @@ import Nora from "../images/headshots/nora.jpeg";
 import Megan from "../images/headshots/meg.jpeg";
 import Alyson from "../images/headshots/ally.jpeg";
 import Jeremy from "../images/headshots/jeremy.jpeg";
-import David from "../images/headshots/profile.jpeg";
-import Jack from "../images/headshots/profile.jpeg";
+import David from "../images/headshots/david.jpeg";
 import Bernice from "../images/headshots/profile.jpeg";
 
 const members = [
@@ -66,7 +65,7 @@ const members = [
       "Vasu is a 3rd year student studying CS & Finance. He loves Climbing and economics. His favorite crypto is Ethereum",
     title: "Vasu Zalawadia (Research Co-Director)",
     image: Vasu,
-    link: "https://nshmadhani.com",
+    link: "https://www.linkedin.com/in/vzalawadia/",
     id: 7,
   },
   {
@@ -110,7 +109,7 @@ const members = [
     description: "",
     title: "Luke O'Neal (Head of Public Relations)",
     image: Bernice,
-    link: "https://www.linkedin.com/in/shubh-p-3b3013136/",
+    link: "https://www.linkedin.com/in/lukefoneill",
     id: 13,
   },
 ];
