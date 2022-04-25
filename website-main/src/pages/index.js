@@ -23,20 +23,32 @@ const IndexPage = () => {
         </div>
       </section>
 
-      <section className="secondary">
-        <center className="secondary-content">
-          <h1 className="secondary-title"> About Us </h1>
-          <h3 className="secondary-subheading">
-            NEU Blockchain is a blockchain club run by students of Northeastern
-            University. We believe that decentralized ledger technology will be
-            a integral part of society in future.
-            <br />
-            <br /> Our aim is to educate students and general public about
-            applications of blockchain and intricate technical details that make
-            all of it possible. We do it through virtual/inperson events every
-            monday, educational posts, podcasts, and in-depth research
-            articles/papers.
-          </h3>
+      <section className="home-about">
+        <center>
+          <h1 className="about-title"> About NEU Blockchain Organization </h1>
+          <br />
+          <br />
+          <p className="about-para">
+            The main purpose of NEU Blockchain Organization is to engage in
+            discussion and education of cryptocurrency and blockchain technology
+            through hands-on learning experiences through research on
+            Northeastern’s campus. We are fostering an open community across
+            undergraduate, graduate, alumni, and industry professionals to build
+            the next blockchain-crypto hub at Northeastern.
+          </p>
+          <br />
+          <br />
+          <p className="about-para">
+            The NEU Blockchain Club focuses on four main areas:
+          </p>
+          <br />
+
+          <ul>
+            <li>Education, guest speakers, panels, etc.</li>
+            <li>Hands-on learning experiences and software development</li>
+            <li>Career, networking, entrepreneur opportunities </li>
+            <li>Academic and industry research</li>
+          </ul>
         </center>
       </section>
 

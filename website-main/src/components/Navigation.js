@@ -37,10 +37,11 @@ export default function Navigation() {
             </Link>
             <div className={popup ? "all_links" : "abcd"}>
               <a
-                href="https://lu.ma/neublockchain"
+                href=""
                 className="items"
                 onClick={() => {
                   closePopup();
+                  window.location = "mailto:neublockchaingroup@gmail.com";
                 }}
                 target="_blank"
               >

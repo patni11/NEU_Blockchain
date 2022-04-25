@@ -40,7 +40,7 @@ const members = [
   },
   {
     description: "",
-    title: "Jeremy Koch (Co Vice Presidents)",
+    title: "Jeremy Koch (Co Vice President)",
     image: Jeremy,
     link: "https://www.linkedin.com/in/jeremy-kochnu/",
     id: 4,
@@ -48,7 +48,7 @@ const members = [
   {
     description:
       "Noura is a 2nd year student studying Finance and Experience Design. She is into MMA, Fencing, Origami, and Travelling. Her favorite crypto is Ethereum",
-    title: "Noura Abdalla (Events Co-Director)",
+    title: "Noura Abdalla (Co-Director of Events)",
     image: Nora,
     link: "https://www.linkedin.com/in/noura-a/",
     id: 14,
@@ -56,7 +56,7 @@ const members = [
   {
     description:
       "Youssef is a 4th Year student majoring in Finance and Corporate Innovation & Ventures. He is interested in NFTs, Art, Fashion, DeFi, and Layer 2s. His favorite crypto is Ethereum",
-    title: "Youssef Haidar (Research Co-Director)",
+    title: "Youssef Haidar (Co-Director of Research)",
     image: Youssef,
     link: "https://www.linkedin.com/in/youssefhh/",
     id: 6,
@@ -64,7 +64,7 @@ const members = [
   {
     description:
       "Vasu is a 3rd year student studying CS & Finance. He loves Climbing and economics. His favorite crypto is Ethereum",
-    title: "Vasu Zalawadia (Research Co-Director)",
+    title: "Vasu Zalawadia (Co-Director of Research)",
     image: Vasu,
     link: "https://www.linkedin.com/in/vzalawadia/",
     id: 7,
@@ -93,7 +93,7 @@ const members = [
   },
   {
     description: "",
-    title: "Megan Gilbert (Head of link Media)",
+    title: "Megan Gilbert (Head of Social Media)",
     image: Megan,
     link: "https://www.linkedin.com/in/megan--gilbert/",
     id: 11,
@@ -108,7 +108,7 @@ const members = [
   },
   {
     description: "",
-    title: "Luke O'Neal (Head of Public Relations)",
+    title: "Luke O'Neal (Director of Operations)",
     image: Luke,
     link: "https://www.linkedin.com/in/lukefoneill",
     id: 13,
