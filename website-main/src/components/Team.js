@@ -10,7 +10,7 @@ import Megan from "../images/headshots/meg.jpeg";
 import Alyson from "../images/headshots/ally.jpeg";
 import Jeremy from "../images/headshots/jeremy.jpeg";
 import David from "../images/headshots/david.jpeg";
-import Bernice from "../images/headshots/profile.jpeg";
+import Bernice from "../images/headshots/bernice.jpeg";
 import Luke from "../images/headshots/luke.jpeg";
 
 const members = [
