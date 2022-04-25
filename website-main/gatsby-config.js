@@ -3,6 +3,7 @@ module.exports = {
     title: `NU Blockchain Website`,
     siteUrl: `https://www.yourdomain.tld`,
   },
+  pathPrefix: "/NEU_Blockchain",
   plugins: [
     `gatsby-plugin-postcss`,
     `gatsby-plugin-image`,
