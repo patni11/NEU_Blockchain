@@ -10,6 +10,16 @@ import Navigation from "../components/Navigation";
 export default function Research() {
   const [data, setData] = useState([
     {
+      id: 5,
+      title: "The Cambrian Explosion of Stablecoins",
+      description:
+        "The rise of stablecoins is a recent phenomena and the ecosystem is fast evolving. In this report, we break down the stablecoin landscape today, the key measures of its growth, and the possible future paths for this burgeoning sector of the crypto-economy.",
+      image:
+        "https://images.unsplash.com/photo-1536623975707-c4b3b2af565d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80",
+      link:
+        "https://5264302.fs1.hubspotusercontent-na1.net/hubfs/5264302/The%20Cambrian%20Explosion%20of%20Stablecoins.pdf",
+    },
+    {
       id: 4,
       title: "NFTs: The Good, the Bad, and the Ugly…",
       description:
