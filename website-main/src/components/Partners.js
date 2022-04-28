@@ -14,6 +14,13 @@ import storj from "../images/companies/storj.jpeg";
 const partners = [
   {
     description: "",
+    title: "Coinmetrics",
+    image: coinmetrics,
+    link: "https://coinmetrics.io/",
+    id: 4,
+  },
+  {
+    description: "",
     title: "a16z",
     image: a16z,
     link: "https://a16z.com",
@@ -33,6 +40,7 @@ const partners = [
     link: "https://www.blockchainedu.org",
     id: 3,
   },
+
   // {
   //   description: "",
   //   title: "Bitcoin",
