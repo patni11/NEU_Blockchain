@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/cardInfo.css";
+import "../styles/CardInfo.css";
 
 export function event_info(info) {
   const date_obj = new Date(Date.parse(info.date))

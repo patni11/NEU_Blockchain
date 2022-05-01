@@ -8,8 +8,6 @@ import partners from "../components/Partners";
 
 // markup
 const IndexPage = () => {
-  var CLIENT_ID = "<YOUR_CLIENT_ID>";
-  var API_KEY = "AIzaSyANP7_gCgpTcSKJCAP-BL_HCvEJIuADrk4";
   return (
     <>
       <Navigation></Navigation>
@@ -22,7 +20,6 @@ const IndexPage = () => {
           </h3>
         </div>
       </section>
-
       <section className="home-about">
         <center>
           <h1 className="about-title"> About NEU Blockchain Organization </h1>
@@ -51,13 +48,11 @@ const IndexPage = () => {
           </ul>
         </center>
       </section>
-
       <Section2
         title="Meet the Team"
         data={members}
         link_title="Link To Socials"
       ></Section2>
-
       <Section2
         title="Our Partners"
         data={partners}
