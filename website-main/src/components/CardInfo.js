@@ -1,6 +1,5 @@
 import React from "react";
-import "../styles/CardInfo.css";
-
+import "./CardInfo.css";
 export function event_info(info) {
   const date_obj = new Date(Date.parse(info.date))
     .toLocaleString()

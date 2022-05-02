@@ -108,7 +108,7 @@ const members = [
   },
   {
     description: "",
-    title: "Luke O'Neal (Director of Operations)",
+    title: "Luke O'Neill (Director of Operations)",
     image: Luke,
     link: "https://www.linkedin.com/in/lukefoneill",
     id: 13,
